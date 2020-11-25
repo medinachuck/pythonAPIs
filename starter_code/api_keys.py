@@ -1,5 +1,6 @@
+import os 
 # OpenWeatherMap API Key
-weather_api_key = "YOUR KEY HERE!"
+weather_api_key = os.environ.get("WEATHER_KEY")
 
 # Google API Key
-g_key = "YOUR KEY HERE!"
+g_key = os.environ.get("GKEY")

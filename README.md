@@ -26,7 +26,7 @@ In the folder 'startercode' you will find the following two analyses:
 A Python script to visualize the weather of 500+ cities across the world utilizes the module [simple Python library](https://pypi.python.org/pypi/citipy), and the [OpenWeatherMap API](https://openweathermap.org/api). 
 
 
-### Part II - VacationPy
+### VacationPy
 
 Uses the weather data from cities in first part of the analysis (WeatherPy) to 
 * Narrow down the DataFrame to find 5 top cities with my ideal weather condition. 
